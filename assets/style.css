@@ -3,10 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-.container {
-    padding-left: 60px;
-    padding-right: 60px;
-}
+
 .navbar nav {
     display: flex;
     justify-content: space-between;
