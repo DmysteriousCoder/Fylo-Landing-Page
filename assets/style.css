@@ -3,3 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
+.container {
+    padding: 0px 30px;
+}
