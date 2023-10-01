@@ -27,7 +27,7 @@
     font-family: "Open Sans", sans-serif;
 }
 .hero .left {
-    width: 55%;
+    width: 53%;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
