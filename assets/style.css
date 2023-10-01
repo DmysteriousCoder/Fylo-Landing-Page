@@ -27,12 +27,12 @@
     width: 50%;
     background-color: yellow;
 }
+.hero .left p.head {
+    font-size: 45px;
+}
 .hero .right {
     width: 50%;
     background-color: blue;
-}
-.hero .left p.head {
-    font-size: 45apx;
 }
 .hero .right img {
     height: 450px;
