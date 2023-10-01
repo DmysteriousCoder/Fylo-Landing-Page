@@ -10,6 +10,7 @@
 .navbar nav {
     display: flex;
     justify-content: space-between;
+    padding-top: 50px;
 }
 .navbar nav .nav-link ul {
     display: flex;
