@@ -130,6 +130,7 @@
     color: hsl(170, 45%, 43%);
     font-size: 18px;
     font-family: 'Open sans', sans-serif;
+    padding-bottom: 5px;
     font-weight: 400;
     align-items: center;
     display: flex;
