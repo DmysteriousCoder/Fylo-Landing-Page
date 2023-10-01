@@ -7,5 +7,5 @@
     padding-left: 90px;
 }
 .navbar nav {
-
+    display: flex;
 }
