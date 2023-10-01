@@ -29,6 +29,9 @@
 .hero .left {
     width: 50%;
     background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
 }
 .hero .left p.head {
     font-size: 40px;
