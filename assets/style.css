@@ -31,6 +31,9 @@
     width: 50%;
     background-color: blue;
 }
+.hero .right p.head {
+    font-size: 30px;
+}
 .hero .right img {
     height: 450px;
 }
