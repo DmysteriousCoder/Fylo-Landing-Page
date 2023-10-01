@@ -38,6 +38,13 @@
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 }
+.hero-body .text p.sub {
+    line-height: 30px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
+}
 .message {
     display: flex;
     gap: 1rem;
