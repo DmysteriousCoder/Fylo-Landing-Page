@@ -21,3 +21,6 @@
 .hero {
     display: flex;
 }
+.hero .left {
+    width: 50%;
+}
