@@ -133,6 +133,7 @@
     font-weight: 400;
     align-items: center;
     display: flex;
+    gap: 0.5rem;
 }
 .productive .body hr {
     width: 185px;
