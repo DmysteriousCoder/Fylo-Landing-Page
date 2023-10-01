@@ -41,6 +41,7 @@
 .hero .right {
     width: 50%;
     background-color: blue;
+    padding-left: 20px;
 }
 .hero .right img {
     height: 450px;
