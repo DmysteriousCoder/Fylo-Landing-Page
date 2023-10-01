@@ -42,4 +42,3 @@ The designs were created to the following widths:
 - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - Weights: 400
    
-Securely share files and folders with friends family and colleagues for live collaboration. No email attachments required!
