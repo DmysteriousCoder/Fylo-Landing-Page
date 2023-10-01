@@ -31,3 +31,6 @@
     width: 50%;
     background-color: blue;
 }
+.hero .right img {
+    height: 500px;
+}
