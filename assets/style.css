@@ -20,6 +20,8 @@
 }
 .hero {
     display: flex;
+    height: 100vw;
+    width: 100%;
 }
 .hero .left {
     width: 50%;
