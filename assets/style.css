@@ -38,6 +38,22 @@
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 }
+.message {
+    display: flex;
+    gap: 1rem;
+}
+.hero-body .message a {
+    display: inline-block;
+    text-align: center;
+    padding: 15px 55px;
+    background-color: hsl(224, 93%, 58%);
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
+}
 .hero .right {
     width: 50%;
     background-color: blue;
