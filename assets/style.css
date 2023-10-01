@@ -60,7 +60,7 @@
     display: flex;
     gap: 1rem;
 }
-.hero .message a {
+.hero .left .message a {
     display: inline-block;
     text-align: center;
     padding: 15px 55px;
