@@ -33,6 +33,7 @@
 .hero .left p.head {
     font-size: 45px;
     font-family: "Raleway", sans-serif;
+    font-weight: 700;
 }
 .hero .right {
     width: 50%;
