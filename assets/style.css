@@ -132,6 +132,8 @@
     padding-bottom: 25px;
     font-family: 'Open sans', sans-serif;
     font-weight: 400;
+    align-items: center;
+    display: flex;
 }
 .productive .body hr {
     width: 215px;
