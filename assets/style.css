@@ -24,9 +24,9 @@
 }
 .hero .left {
     width: 50%;
-    color: yellow;
+    background-color: yellow;
 }
 .hero .right {
     width: 50%;
-    color: blue;
+    background-color: blue;
 }
