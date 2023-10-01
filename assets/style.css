@@ -12,4 +12,5 @@
 }
 .navbar nav .nav-link ul {
     display: flex;
+    list-style-type: none;
 }
