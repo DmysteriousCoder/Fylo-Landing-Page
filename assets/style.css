@@ -56,7 +56,7 @@
     font-weight: 400;
 }
 
-.message {
+.hero .left .message {
     display: flex;
     gap: 1rem;
 }
