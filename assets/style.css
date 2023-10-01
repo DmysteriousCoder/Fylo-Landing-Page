@@ -45,11 +45,22 @@
     font-family: 'Open sans', sans-serif;
     font-weight: 400;
 }
+.hero-body .message input {
+    width: 350px;
+    height: 25px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: 0.1px solid rgba(0, 0, 0, 0.521);
+    color: hsla(0, 0%, 75%, 0.829);
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
+}
+
 .message {
     display: flex;
     gap: 1rem;
 }
-.hero-body .message a {
+.hero .message a {
     display: inline-block;
     text-align: center;
     padding: 15px 55px;
