@@ -90,17 +90,12 @@
 }
 .productive .body {
     background-image: url('./images/screen.jpeg');
-    padding-left: 60px;
-    padding-right: 60px;
     margin: 0;
     position: relative;
     top: 300px;
     display: flex;
     padding-top: 100px;
     gap: 9rem;
-}
-.productive .body .txt {
-    margin-left: 155px;
 }
 .productive .txt p.head {
     font-size: 35px;
