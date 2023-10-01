@@ -60,7 +60,6 @@
     gap: 1rem;
 }
 .hero .left .message a {
-    display: inline-block;
     text-align: center;
     padding: 15px 50px;
     background-color: hsl(224, 93%, 58%);
