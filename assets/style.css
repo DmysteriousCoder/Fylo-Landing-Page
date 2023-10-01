@@ -135,7 +135,7 @@
     display: flex;
 }
 .productive .body hr {
-    width: 215px;
+    width: 185px;
     border: 0.05px solid hsl(170, 45%, 43%);
 }
 .card {
